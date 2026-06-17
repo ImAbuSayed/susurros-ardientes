@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate nena, apaga la luz,
+> Nadie en la fiesta me mira como tú.
+> Un juego de fuego, tensión en la piel,
+> Preciosa, tus labios me saben a miel.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
