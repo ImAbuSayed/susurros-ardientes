@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-ardientes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurros ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-ardientes/) |
+| **Get License** | [Request Licensing for Susurros ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-ardientes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4462e502c345731b796adda123d8f80e6cb2e5752b77dd5d6175eb67c58089f2` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

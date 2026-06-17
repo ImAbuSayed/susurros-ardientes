@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros ardientes
+
+This log tracks the cryptographic history and versioning for the song **Susurros ardientes** (susurros-ardientes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:12:11.320275 | `v1` | `4462e502c345731b796adda123d8f80e6cb2e5752b77dd5d6175eb67c58089f2` | `b66e9b3c44afca46eff72e1c0c8a619681f2e423f01f5fefa62d418f09b5bca6` | `2026-06-17_susurros-ardientes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
